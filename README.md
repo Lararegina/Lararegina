@@ -1,8 +1,8 @@
 <img src="https://media2.giphy.com/media/137EaR4vAOCn1S/giphy.gif?cid=ecf05e47n5403sc4tglhip5bp33njv5jotbw3cdcmbhytuqn&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Meu nome é Lara, tenho 24 anos, estou trabalhando na área de <strong>Security</strong>.<br>
- Eu estudo na SPTech, cursando o curso de Análise e Desenvolvimento de Sistemas
+ Meu nome é Lara, tenho 26 anos, estou trabalhando na área de <strong>SAP</strong>.<br>
+ Eu estudo na SPTech, formada em curso de Análise e Desenvolvimento de Sistemas
 </p>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
