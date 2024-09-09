@@ -2,7 +2,7 @@
 
 <p align="left"> 
  Meu nome é Lara, tenho 26 anos, estou trabalhando na área de <strong>SAP</strong>.<br>
- Eu estudo na SPTech, formada em curso de Análise e Desenvolvimento de Sistemas
+ Formada na SPTech curso de Análise e Desenvolvimento de Sistemas
 </p>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
